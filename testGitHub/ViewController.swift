@@ -17,6 +17,8 @@ class ViewController: UIViewController {
         Muna = "Added Tima"
         var fuck = "nnn"
         
+        var fromGit = "test"
+        
     }
 
     override func didReceiveMemoryWarning() {
