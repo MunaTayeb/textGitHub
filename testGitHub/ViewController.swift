@@ -15,8 +15,7 @@ class ViewController: UIViewController {
         
         var Muna = "HI"
         Muna = "Added Tima"
-        
-        
+        var fuck = "nnn"
         
     }
 
