@@ -1,13 +1,5 @@
-//
-//  AppDelegate.swift
-//  testGitHub
-//
-//  Created by Muna Tayeb on 6/22/1438 AH.
-//  Copyright © 1438 Muna Tayeb. All rights reserved.
-//
 
-
-jhkhjkhkhkjhkjhkjhk jh k
+//jhkhjkhkhkjhkjhkjhk jh k
 
 
 
